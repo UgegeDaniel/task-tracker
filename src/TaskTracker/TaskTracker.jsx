@@ -1,7 +1,5 @@
 import React from 'react';
 
-import './taskTracker.css';
-
 import Header from './components/Header';
 import AddTask from './components/AddTask';
 import Tasks from './components/Tasks';

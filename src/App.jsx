@@ -22,6 +22,8 @@
 import React, {useEffect, useState} from 'react'
 import TaskTracker from './TaskTracker/TaskTracker';
 
+import './index.css'
+
 
 const App1 = () => {
                     //  S T A T E S
