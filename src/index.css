@@ -21,9 +21,9 @@ App{
   background-color: var(--appColor);
 }
 
-::-webkit-scrollbar{
+/* ::-webkit-scrollbar{
   display: none;
-}
+} */
 
 .container {
   max-width: 1200px;
